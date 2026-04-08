@@ -1,10 +1,10 @@
 # ML-Financial-Health-Analytics
 Machine Learning Project for Supervised Stroke Prediction and Unsupervised Credit Card Clustering.
 
-# 🚀 AWS End-to-End Machine Learning Lifecycle Project
+# 🚀 End-to-End Machine Learning Lifecycle Project
 **A dual-track technical exploration of Supervised and Unsupervised Learning.**
 
-This project implements a full-cycle machine learning pipeline to solve two distinct analytical challenges: **Stroke Prediction** (Supervised Learning) and **Credit Card User Segmentation** (Unsupervised Learning). The project demonstrates a professional transition from raw data exploration to cloud-integrated model optimization using AWS SageMaker.
+This project implements a full-cycle machine learning pipeline to solve two distinct analytical challenges: **Stroke Prediction** (Supervised Learning) and **Credit Card User Segmentation** (Unsupervised Learning).
 
 ## 📌 Project Overview
 The goal of this investigation is to demonstrate proficiency across the entire ML lifecycle:
@@ -33,7 +33,6 @@ The goal of this investigation is to demonstrate proficiency across the entire M
 
 ## 🛠 Tech Stack
 * **Language:** Python
-* **Cloud Platform:** AWS (SageMaker, S3)
 * **Libraries:** Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy
 
 ---
